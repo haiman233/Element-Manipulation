@@ -1,23 +1,25 @@
-# Element Manipulation ⚗🧪👨‍🔬
-This addon gives the players the capacity to create elements from items, and items from elements.
+# Element Manipulation（化学工程） ⚗🧪👨‍🔬
+这个插件可以让玩家从物品中提取元素，从元素中创造物品
 
-This addon is still new, so it doesnt have too much things.
+这是一个新的附属，所以还有很多地方需要补充
 
 
-## For the server owners ❓
+## 致腐竹 ❓
 
-I will add a way to config how many energy the machines uses, disable certain junctions, etc.
+我将会添加一种功能来配置机器使用多少能量，禁用某些连接等
 
-## Requirements ❗
-Minecraft 1.17+
+## 版本 ❗
+Minecraft版本 1.17+
 
-Slimefun Version: Always use latest! (Click Below)
+Slimefun版本: 最新版（RC-27以上）
 
-[![Build Status](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
+[![Build Status](https://github.com/StarWishsama/Slimefun4/releases.svg)](https://github.com/StarWishsama/Slimefun4)
 
-## Bugs or issues 🐛
+[汉化版下载](https://builds.guizhanss.net/haiman233/Element-Manipulation-CN/master/)
 
-To report a bug or issue, open a new issue, or contact me on discord @林alguém林#4507
+## 漏洞 🐛
+
+在issue界面汇报bug，或在 discord上联系 @林alguém林#4507
 
 <p>
   <a href="https://discord.gg/slimefun">
@@ -28,13 +30,13 @@ To report a bug or issue, open a new issue, or contact me on discord @林alguém
   </a>
 </p>
 
-## Almost full release prediction
-Middle of 2022
-im doing my best ok 
+## 预计完全公测
+2022年中旬
+我将尽我所能
 
-# Changelog ✔
+# 更新公告 ✔
 ## v1.0.1
-- Fixed minor errors
+- 修复了一些小漏洞
 ## v1.0.0 
-- First release
-- Added everything
+- 初始发布版
+- 添加元素、机器等物品
